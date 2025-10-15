@@ -1,0 +1,10 @@
+main:
+  - title: "Resume"
+    url: /resume/
+  - title: "Services"
+    url: /services/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Use Cases"
+    url: /use-cases/
+  - url: /
