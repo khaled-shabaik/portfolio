@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Khaled Shabaik Portfolio
+title: Khaled Shabaik
 email: khaled.ashraf.tech@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,20 +60,29 @@ plugins:
 author:
   name   : "Khaled Shabaik"
   avatar : "/doc/assets/images/Khaled_Shabaik_Github_Portfolio.PNG"
-  bio    : "QA Engineer."
+  bio    : "QA Engineer | SDET | Mentor"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Upwork"
+      icon: "fab fa-fw fa-upwork"
+      url: "https://www.upwork.com/freelancers/~01c6fa7fd1b3dba47c"
+    - label: "peopleperhour"
+      icon: "fa-solid fa-face-smile"
+      url: "https://www.peopleperhour.com/freelancer/khaled-shabaik-software-tester-quality-assurance-zyvxqamq"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/khaled-shabaik/"
+    - label: "Udemy coming soon"
+      icon: "fab fa-fw fa-twitter-udemy"
+      url: "https://www.udemy.com/user/khaled-shabaik/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
+      url: "https://github.com/khaled-shabaik"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/KhalidShabaik"
+    - label: "Threads"
+      icon: "fas fa-fw fa-threads"
+      url: "https://www.threads.com/@khaled.ashraf.insta"
 
 footer:
   links:
