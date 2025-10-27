@@ -125,7 +125,7 @@ defaults:
       path: "services"
       type: pages
     values:
-      permalink: /services/:basename/
+      permalink: portfolio/services/:basename/
 
   # If your services are a collection named `services` (uncomment instead)
   # - scope:
