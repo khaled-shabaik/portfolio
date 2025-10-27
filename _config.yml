@@ -117,6 +117,22 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # -- NEW: default permalink for pages in the services folder or services collection
+  # Use one of the two scopes below depending on how you store services pages:
+  #
+  # If your services pages are regular pages under a folder named `services/`:
+  - scope:
+      path: "services"
+      type: pages
+    values:
+      permalink: /services/:basename/
+
+  # If your services are a collection named `services` (uncomment instead)
+  # - scope:
+  #     path: ""
+  #     type: services
+  #   values:
+  #     permalink: /services/:path/
 
 category_archive:
   type: liquid
