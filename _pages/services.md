@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 ---
 
-> 📋 **[Explore my Manual Testing Services →](/services/manual-testing-services)**
+> 📋 **[Explore my Manual Testing Services →]({{ page.url }}manual-testing-services)**
 
 
-> 📋 **[Pre-sales Technical Consultant →](/services/presales-consulting-services)**
+> 📋 **[Pre-sales Technical Consultant →]({{ page.url }}presales-consulting-services)**
